@@ -1,4 +1,5 @@
-Este repositório documenta a criação e configuração de clusters no Databricks, destacando etapas práticas, screenshots e aprendizados. Explorei desde a seleção do tipo de cluster (interativo vs. job) até a otimização de custos com autoscaling, integração de bibliotecas (Python/SQL) e boas práticas para ambientes de dados escaláveis. Os insights incluem trade-offs entre performance e custo, além da importância de versionamento com GitHub para colaboração em equipe. Confira os prints e detalhes no README.md!
+este projeto, explorei a integração entre Azure DevOps e GitHub para versionamento de código, utilizando Azure Repos (Git) para gerenciar repositórios e GitHub Actions para CI/CD. Minha experiência destacou a facilidade de sincronizar branches, revisar PRs (Pull Requests) e automatizar deploys, além da vantagem de unir o controle de tarefas do Azure Boards com a comunidade aberta do GitHub. Aprendi a equilibrar segurança (com branch policies) e colaboração, otimizando fluxos entre equipes. Ferramentas como Azure Pipelines e GitHub Actions complementaram o processo, garantindo rastreabilidade e eficiência.
+
 
 
 
